@@ -1,0 +1,29 @@
+IDE (Intergrated Development Environment) : 코딩, 컴파일링, 디버깅, 실행, 자동완성, 라이브러리 등의 기능을 함께 제공하는 개발 환경
+
+Top 5 IDE
+-Pyscripter
+  -플랫폼 : WINDOWS
+  -가격 : 무료
+  -윈도우 내장 프로그램, 최소한의 메모리 소모로 최대 성능 가능, 고급 기능 제한
+
+-PyCharm
+  -플랫폼 : WINDOWS, LINUX, MAX OS 등
+  -가격 : 199$
+  -반복 작업 처리 및 환경 조정 등 작업 효율화에 적합, 기능 대비 고비용
+
+-Spyder
+  -플랫폼 : QT, WINDOWS, LINUX, MAX OS 등
+  -가격 : 무료 (오픈소스)
+  -플러그인과 API 구성이 탄탄한 과학 분야 활용도 높은 환경, 동시에 플러그인 과다 적용시 성능 저하
+
+-PyDev
+  -플랫폼 : QT, WINDOWS, LINUX, MAX OS 등
+  -가격 : 무료 (오픈소스)
+  -파이썬 개발에 사용되는 IDE, PyDev 내의 플러그인 문제로 어플리케이션 개발에 문제 발생 가능
+
+-Idle
+  -플랫폼 : WINDOWS, LINUX, MAC OS 등
+  -가격 : 무료 (오픈소스)
+  -순수 파이썬으로 개발된 IDE로 개발 초심자들에게 적합, 너무 범용적이고 줄 번호 등의 기초적인 기능 부재
+
+
